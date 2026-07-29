@@ -282,12 +282,6 @@ npm run dev
 
 ---
 
-# License
-
-This project is released under the MIT License.
-
----
-
 # Author
 
 **Sushant Kumar Khobian**
