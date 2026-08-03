@@ -16,6 +16,18 @@ The project demonstrates how embedded firmware can be integrated with backend se
 
 ---
 
+# Screenshots
+
+<img width="1902" height="903" alt="Screenshot 2026-08-03 200515" src="https://github.com/user-attachments/assets/a95651fd-0ee8-42b6-a6d9-2da9954fa369"/>
+
+<img width="1856" height="756" alt="Screenshot 2026-08-03 200526" src="https://github.com/user-attachments/assets/7a974e2d-7d5c-4644-9024-c7b92049b852" />
+
+<img width="720" height="541" alt="Screenshot 2026-08-03 200540" src="https://github.com/user-attachments/assets/fd5e9ea7-580e-4548-a6a4-a44cbf85630d" />
+
+<img width="530" height="435" alt="Screenshot 2026-08-03 200822" src="https://github.com/user-attachments/assets/82fa7cce-394d-49b4-a200-6124a3a7e3d7" />
+
+---
+
 # Features
 
 ## Firmware
@@ -273,12 +285,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
----
-
-# Screenshots
-
-> Dashboard screenshots, firmware output, and architecture diagrams will be added as the project evolves.
 
 ---
 
