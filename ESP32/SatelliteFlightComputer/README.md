@@ -1,5 +1,14 @@
 # Satellite Flight Computer
 
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-Firmware-blue)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-RTOS-red)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-Embedded-orange)
+![WiFi](https://img.shields.io/badge/WiFi-802.11-green)
+![TCP](https://img.shields.io/badge/TCP-Communication-blue)
+![Python](https://img.shields.io/badge/Python-Ground%20Station-yellow)
+![JSON](https://img.shields.io/badge/JSON-Telemetry-lightgrey)
+
 A production-oriented embedded flight computer built around the ESP32 that simulates the core onboard software of a small satellite, including mission management, real-time telemetry, spacecraft attitude, power monitoring, fault detection, and emergency procedures.
 
 The project is designed as a learning exercise in production-grade embedded firmware architecture rather than a traditional academic project. It emphasizes FreeRTOS-based concurrent execution, modular firmware design, real-time telemetry, reliable Wi-Fi communication, command handling, and autonomous fault response.
