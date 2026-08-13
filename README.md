@@ -4,7 +4,7 @@ A collection of production-oriented embedded systems modules built to explore re
 
 ## About
 
-Embedded Systems Lab is my personal engineering repository where I design, build, and document small, focused embedded systems modules using ESP32, STM32, and modern IoT technologies.
+Embedded Engineering Lab is my personal engineering repository where I design, build, and document small, focused embedded systems modules using ESP32, STM32, and modern IoT technologies.
 
 The objective of this repository is to continuously improve my understanding of production-grade embedded software by implementing practical features that are commonly found in commercial embedded products rather than traditional academic projects.
 
