@@ -70,4 +70,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 **Sushant Kumar Khobian**
 
-Embedded Systems • Firmware • IoT • Robotics
+Embedded Systems • Firmware • IoT
